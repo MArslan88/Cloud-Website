@@ -127,11 +127,10 @@ img{
     position: absolute;
     height: 100px;
     bottom: -70px;
-    right: 0;
     left: 0;
+    right: 0;    
     background: #fff;
     transform: skewy(-3deg);
-    -webkit-transform: skewy(-3deg);
     -moz-transform: skewy(-3deg);
     -ms-transform: skewy(-3deg);
 }
