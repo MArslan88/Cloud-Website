@@ -192,3 +192,8 @@ img{
     transform: translateY(-15px); /* for transition effect on upword direction */
 }
 
+/* Footer */
+.footer .social a{
+    margin: 0 10px;
+}
+
