@@ -192,11 +192,25 @@ img{
     transform: translateY(-15px); /* for transition effect on upword direction */
 }
 
-/*! FEATURES */
+
+
+
+/*! FEATURES ------------------------------------------------------*/
 .features-head img{
     width: 200px;
     justify-self: flex-end;
 }
+
+.features-sub-head img{
+    width: 300px;
+    justify-self: flex-end;
+
+}
+
+
+
+/*! ------------------------------------------------------*/
+
 
 /* Footer */
 .footer .social a{
